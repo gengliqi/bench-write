@@ -11,7 +11,7 @@
 
 
 # Vscode files
-.vscode/**
+.vscode
 
 target
 

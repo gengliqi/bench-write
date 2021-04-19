@@ -1,6 +1,6 @@
 {
-    "gotoSymbolStack.currentStackPosition": 10,
-    "gotoSymbolStack.maxStackPosition": 10,
+    "gotoSymbolStack.currentStackPosition": 12,
+    "gotoSymbolStack.maxStackPosition": 12,
     "gotoSymbolStack.filePositionInfo": [
         {
             "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
@@ -80,6 +80,22 @@
             "textPosition": {
                 "line": 20,
                 "character": 27
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/bench-write/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 9,
+                "character": 51
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/bench-write/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 9,
+                "character": 56
             }
         }
     ]
