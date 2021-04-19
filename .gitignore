@@ -1,0 +1,20 @@
+
+# OSX leaves these everywhere on SMB shares
+._*
+
+# OSX trash
+.DS_Store
+
+
+# Vim swap files
+*.swp
+
+
+# Vscode files
+.vscode/**
+
+target
+
+# cargo configuration. We presently use this to create custom cargo profiles
+# that should not be checked in at this location.
+.cargo/

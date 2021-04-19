@@ -1,0 +1,86 @@
+{
+    "gotoSymbolStack.currentStackPosition": 10,
+    "gotoSymbolStack.maxStackPosition": 10,
+    "gotoSymbolStack.filePositionInfo": [
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 0,
+                "character": 5
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 27,
+                "character": 40
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 34,
+                "character": 13
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 0,
+                "character": 26
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 5,
+                "character": 16
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/bench_sync_write.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 11,
+                "character": 27
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 12,
+                "character": 36
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 12,
+                "character": 49
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/main.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 12,
+                "character": 23
+            }
+        },
+        {
+            "textFile": "/Users/gengliqi/myrepo/toy/rust_toy/src/bench_async_fsync.rs",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 20,
+                "character": 27
+            }
+        }
+    ]
+}
